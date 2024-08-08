@@ -1,0 +1,488 @@
+Game,Region,Emulator,Playability,Resolution,Renderer,Notes,Media Links,Tested by,Date Tested:
+007 - From Russia With Love,ALL,AetherSX2,Bad,1x,Vulkan,"Major slowdowns during the game, tried different configurations but nothing happens",,Smoje79,12-30-22
+Ace Combat 4 - Shattered Skies,NTSC-U,AetherSX2,Bad,1x,Vulkan,Major Slowdown,,Jetup13,11-25-22
+Ace Combat 5 Belkan War ,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Plays great,,Anonymous,12-30-22
+Ace Combat: Squadron Leader,PAL,AetherSX2,Great,1x,Vulkan,Good performance on optimal settings. Minor graphical glitches whenever the ocean is in view.,https://www.youtube.com/watch?v=O2MfvbKfIe8,The Gaming Geek Net,03-10-23
+Amplitude,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,,Jetup13,11-26-22
+Ape Escape 2,PAL,AetherSX2,Perfect,1.5x,Vulkan,PAL. Optimal Settings as a base. Threaded Presentation: Enabled. Runs 100%.,,GongStar,12-30-22
+Ar tonelico 1,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great ,,Igor Silva,11-30-22
+Ar tonelico 2,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great ,,Igor Silva,11-30-22
+Arc the Lad: Twilight of the Spirits ,ALL,AetherSX2,Somewhat,1x,Vulkan,"The game is playable with  EE Cycle Rate: -1, EE Cycle Skip: 1, Hardware Download Mode: Unsynchronized. There are occasional framerate drops during transitions. Don´t try widescreen patches on this one, they slow the game ",,ThespianMask,12-30-22
+Arcana Heart,NTSC-U,AetherSX2,Great,1x,Software,"Runs 100%. Note that this game needs to run in Software mode. OpenGL and Vulkan have nasty drops on special effects, even though it's just a 2D fighter.",,GongStar,03-12-23
+Armored Core 2,PAL,AetherSX2,Great,1x,OpenGL,"EE Cycle Rate -1, EE Cycle Skip 1, set Hardware Download Mode to Unsynchronized. You may need to do the Sleep Mode trick (https://www.youtube.com/watch?v=c09JUOzWSo4) if game speed is below 100%.",https://www.youtube.com/watch?v=Q9srNL_EwiA,The Gaming Geek Net,02-10-23
+Atelier Iris 1,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great ,,Igor Silva,11-30-22
+Atelier Iris 2,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great ,,Igor Silva,11-30-22
+Atelier Iris 3,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great ,,Igor Silva,11-30-22
+Atelier Marie + Elie,NTSC-J,AetherSX2,Perfect,1x,OpenGL,Runs Great ,,Igor Silva,11-30-22
+Auto Modellista,PAL,AetherSX2,Perfect,2x,Vulkan,PAL. Runs 100%. You may be able to go 3x in this one.,,GongStar,03-21-23
+Avatar - The Last Airbender,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Seems to run perfect without underclock,https://www.youtube.com/watch?v=6IF3_8HTeKY,Retro Game Corps,11-23-22
+Baldur's Gate - Dark Alliance,PAL,AetherSX2,Bad,1x,Vulkan,PAL. Runs 25-100% it varies heavily but overall runs very poorly.,,GongStar,03-21-23
+Baroque,NTSC-U,AetherSX2,Great,1x,Vulkan,"Fast Settings Turned On, Widescreen Hacks should be turned off.",,Jetup13,11-25-22
+Battle Stadium D.O.N,NTSC-J,AetherSX2,Great,1x,Vulkan,A few drops but it was unnoticeable from testing,,Jetup13,11-27-22
+Battlefield 2 - Modern Combat,PAL,AetherSX2,Bad,1x,Software,"PAL. This game still requires Software renderer to play at all. Runs around 25-30% in game, with 5 threads.",,GongStar,03-21-23
+Beyond Good and Evil,PAL,AetherSX2,Great,1x,Vulkan,"PAL. Optimal Settings as a base. EE Cycle Rate: -1, EE Cycle Skip: 1. Hardware Download Mode: Unsynchronized. Advanced Settings -> Auto Flush: False (to remove the shadows, as they flicker annoyingly). Runs at 100%. Intro cutscene and the following two battles run stutter free. Tried 1.25x but it starts dipping in the intro cutscene when the sky opens up and also in the first battle.",,GongStar,12-30-22
+Black,PAL,AetherSX2,Great,1.25x,Vulkan,"PAL works a bit better. Vulkan at 1.25x , Aspect Ratio 16:9 with widescreen patch, EE Cycle Rate -2 EE Cycle skip 1. Hardware Download Mode Accurate. Runs at 100% with minor dips into the high 90s. Play the game in 50hz mode. As far as the weird flashing pixelated glitch try-Advanced settings> skipdraw start 5 and skipdraw end 5. The game does not run perfect nor at 100% all of the time. Hardware Download Mode: Unsynchronized. Advanced Settings -> Auto Flush: False It is playable.",https://www.youtube.com/watch?v=TEd5XU1vT70&lc=Ugw3K9pL2j-d4vxaoFl4AaABAg,Galvy,12-21-22
+Blood Omen 2,PAL,AetherSX2,Playable,1x,OpenGL,Runs Great. Only frame dips on the opening cgi. The rest is full speed.,,Igor Silva,11-27-22
+Blood Will Tell,PAL,AetherSX2,Bad,1x,Vulkan,Barely scratches past single digit fps. Not playable.,,Jetup13,11-25-22
+Bloodrayne,NTSC-U,AetherSX2,Great,1x,Vulkan,Seems to run perfect without underclock,,Retro Game Corps,
+Bloody Roar 3,PAL,AetherSX2,Great,2x,Vulkan,Runs full speed with only minor dips!,,OmgLeto,11-30-22
+Bloody Roar 4,PAL,AetherSX2,Great,2x,Vulkan,PAL. Runs 100%. Dips can occur on transformation effects.,,GongStar,12-30-22
+Breath of Fire - Dragon Quarter (Breath of Fire V),PAL,AetherSX2,Great,2x,Vulkan,"PAL. Hardware Download Mode: Unsynchronized. Runs 100%. I only played for about 10m so can't say if the performance holds. If you encounter slow downs try lowering the resolution. If you run the game in 'Accurate' mode it will dip to 60%~ which is ofc unplayable. To fix lines caused by missaligned UI elements, you can set TC Offset X/Y to 500/500.",,GongStar,12-30-22
+Breath Of Fire V,PAL,AetherSX2,Bad,1x,Vulkan,Game dips really hard on cutscene and in the gameplay.,,Igor Silva,11-25-22
+Bujingai - The Forsaken City,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,https://www.youtube.com/watch?v=ufUe2huEpGk,Jetup13,11-25-22
+Bully,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,"Fast Settings Turned on, a bit sluggish in general (Fps not stated)",,Jetup13,11-12-22
+Burnout 3,NTSC-U,AetherSX2,Playable,1.25x,Vulkan,"Use Vulkan at 1.25x , Multi Threaded VU1 , EE Cycle Rate to 300(3)
+EE Cycle Skip to 3 , Audio to Async Mix , Bilinear - PS2 ,Hardware Download Mode: Accurate
+Threaded presentation , Multi Threaded VU1. The game runs at 60fps and 100% speed. Yes there are dips but nothing I noticed that makes the game unplayable. I would have labled the play value as ""great"" but people are waaay too picky.",,Galvy,12-04-22
+Burnout 3 Takedown,ALL,AetherSX2,Somewhat,1.5x,Vulkan,"NTSC-U With a custom pnach file (RP3+ discord) to disable some of the blur and bloom effects, you can get mostly playable speeds.  I've seen it range from 20-40 Game FPS with 60 Video FPS.  The crash scenes can get really choppy and some heavy areas drop lower in FPS.  Fast/Unsafe options with EE Cycle Rate: -3,EE Cycle Skip: 2, Threaded Presentation, and Widescreen patches
+https://discord.com/channels/899605564361953300/1037706752222838834/1061686782833463400",,gtaforever00,03-21-23
+Burnout Revenge,NTSC-U,AetherSX2,Great,1.5x,Vulkan,"EE cycle  rate 0, EE Cycle skip 3. Runs at 60 fps and 100% speed. It did freeze for 
+1 second here and there but it was very playable",,Galvy,11-26-22
+Call of Duty,PAL,AetherSX2,Great,1x,Vulkan,"EE Cycle Rate: -1, EE Cycle Skip: 2. Runs 100% walking around the trenches at the start.",,GongStar,03-12-23
+Call of Duty 2 - Big Red One,PAL,AetherSX2,Somewhat,1x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 3. Runs around 90-100%, with frequent little dips. There are also some graphical glitches present. Like the mud having a rainbow colored layer at times. This is only fixed by going to the super slow Software renderer. I only saw the first minute of gameplay, but I wouldn't trust this performance throughout the game even with this aggressive underclock, since my impression was that the performance seemed unreliable.",,GongStar,03-21-23
+Call of Duty 3,PAL,AetherSX2,Somewhat,1x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 3. Runs 85-100% depending on where you are looking. Underclocking helps a bit but not fully, even though the numbers say 100% you can feel the slow down. A test you can do is stand close to the guy at the very beginning of training where you pick and the gun, then rotate in full circles with the camera while standing in place. You will sometimes get a mild slowdown when you reach a certain angle with the camera.",,GongStar,03-21-23
+Call of Duty: World at War - Final Fronts,ALL,AetherSX2,Bad,1x,Vulkan,"Pal, slow as molasses",,Ric Flair,03-21-23
+Canis Canem Edit (Bully),PAL,AetherSX2,Playable,1x,OpenGL,"EE Cycle Rate 75%, EE Cycle Skip 1, Using Vulkan will cause graphical glitches in the Inventory and Status screens. If performance is bad, do the Sleep Mode Trick (https://www.youtube.com/watch?v=c09JUOzWSo4)",https://www.youtube.com/watch?v=c0QUxKA4D4g,The Gaming Geek Net,2-3-23
+Capcom Fighting Jam,PAL,AetherSX2,Perfect,1x,Vulkan,PAL. Runs 100%.,,GongStar,12-30-22
+Captain Tsubasa,ALL,AetherSX2,Playable,1x,Vulkan,"Playable, but frame drop in some scene",,,03-21-23
+Castlevania - Curse of Darkness,PAL,AetherSX2,Perfect,1x,Vulkan,EE Cycle Rate 60%. Game runs well,,Anonymous,11-27-22
+Castlevania - Lament of Innocence,NTSC-U,AetherSX2,Great,1x,Vulkan,Fast Settings Turned On,,Jetup13,12-14-22
+Champions of Norrath,NTSC-U,AetherSX2,Playable,1x,Vulkan,"Fast settings is a must, EE Cycle Rate -3, EE Cycle Skip 3, Threaded presentation On. Main menu runs very slow, cutscenes and gameplay is ok-ish. OpenGL is unusable, renders only half of the screen. Deinterlacing in Advanced needs to be set to Blend tff, otherwise the game looks bad with blurry text.",,Mike22,12-30-22
+Chaos Legion,ALL,AetherSX2,Playable,1x,Vulkan,"Runs well, don't try summoning. 60% EE Cycle Rate",,Anonymous,12-15-22
+Cold Fear,NTSC-U,AetherSX2,Great,1.5x,Vulkan,Runs great. No underclocking needed.,,Galvy,12-14-22
+Contra - Shattered Soldier ,PAL,AetherSX2,Great,2x,Vulkan,PAL. Runs 100%.,,GongStar,12-30-22
+Crash - Mind Over Mutant,PAL,AetherSX2,Great,2x,Vulkan,PAL. Runs 100%.,,GongStar,12-30-22
+Crash Bandicoot: Wrath of Cortex,NTSC-U,AetherSX2,Great,1.5x,Vulkan,"Fast Settings Turned On, EE Cycle Skip Set to 0 to make sure the game runs at 60fps ins tead of 30fps. Runs well no problem at 1.5x!",,FruitLoops,12-04-22
+Crash Nitro Kart,PAL,AetherSX2,Great,2x,Vulkan,PAL. Hardware Download Mode: Unsynchronized. Runs 100%. There may be some first time stutters. Also sun can be seen through walls sometimes.,,GongStar,12-16-22
+Crash of the Titans,PAL,AetherSX2,Great,2x,Vulkan,PAL. Runs 100%. There may be some first time stutters.,,GongStar,12-16-22
+Crash Tag Team Racing,ALL,AetherSX2,Playable,1.5x,Vulkan,"PAL. The game seems to run 100% even without underclock, but the start screen for some reason is hella slow and requires EE Cycle Rate: -2, EE Cycle Skip: 2, to run well.",,GongStar,03-21-23
+Crash Twinsanity,PAL,AetherSX2,Perfect,1x,Vulkan,PAL version runs great on optimal defaults.,https://www.youtube.com/watch?v=SWpxuDRnsro,The Gaming Geek Net,03-07-23
+Crimson Sea 2,NTSC-U,AetherSX2,Great,1x,OpenGL,"NTSC. Tested the starting area at base settings.
+ Ran perfectly. No drops.",,Neonetik,12-18-22
+Dark Angel - Vampire Apocalypse,NTSC-U,AetherSX2,Great,2x,Vulkan,USA version of the game runs 100% at default settings no slowdown whatsoever,,dudedupe,03-21-23
+Dark Chronicle (Dark Cloud 2),PAL,AetherSX2,Playable,1x,Vulkan,"PAL. Hardware Download Mode: Unsynchronized. Runs around 95-100% most of the time, but has dips down to 70%~ which is jarring.",,GongStar,12-16-22
+Dark Cloud,PAL,AetherSX2,Great,1x,Vulkan,"PAL. Hardware Download Mode: Unsynchronized. Runs around 95-100% most of the time, with an occasional stutter. 1.25x runs much the same but some UI elements may look a bit distorted.",,GongStar,12-16-22
+Dawn of Mana,NTSC-U,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate: 180%, EE Cycle Skip: 3, Threaded Presentation: Enabled - NTSC-U",,BigSludge,12-30-22
+Dead to Rights,PAL,AetherSX3,Perfect,1x,Vulkan,Works great at Optimal defaults,https://www.youtube.com/watch?v=hgXUGLJ3VeU,The Gaming Geek Net,04-07-23
+Def Jam Vendetta,PAL,AetherSX3,Perfect,2x,Vulkan, It just works. Using Mjolnir Stone base settings. (PAL) ,,FosterHomeFG,
+Def Jam: Fight for NY,PAL,AetherSX3,Great,1x,Vulkan,EE Cycle Skip 1. Do the Sleep mode trick to reduce dips (https://www.youtube.com/watch?v=c09JUOzWSo4).,https://www.youtube.com/watch?v=0-xcUXnpeW0,The Gaming Geek Net,03-10-23
+Destroy All Humans!,PAL,AetherSX2,Great,2x,Vulkan,"EE cycle and rate and skip at 0. Runs 50fps and 100% speed.  Some very minor graphic glitches.
+ Advanced settings>Skip Draw star and End to 4",,Galvy,11-30-22
+Devil Kings,PAL,AetherSX2,Playable,1x,OpenGL,"Runs Great. Some small frame dips here and there (mostly on the cgi), but nothing major. EE Cycle Rate 60%",,Igor Silva,11-23-22
+Devil May Cry ,PAL,AetherSX2,Great,1.25x,Vulkan,"75% Underclock, Cycle Skip 1. The game can actually run at 2.5-3x res, however in a boss battle it will severely slow down even at 1.5x. Best to run at 1.25x for steady play or you can lower the resat every boss battle.",,Galvy,11-26-22
+Devil May Cry 2,NTSC-U,AetherSX2,Great,1x,,Seems to run perfect without underclock,https://www.youtube.com/watch?v=6IF3_8HTeKY,Retro Game Corps,11-25-22
+Devil May Cry 3: Special Edition,NTSC-U,AetherSX2,Playable,2x,Vulkan,"NTSC-U.  Played through the first 3 missions with minimal slowdowns.  Global settings: Fast/Unsafe.  EE Cycle Rate: 0, EE Cycle Skip: 0, Widescreen enabled, Threaded presentation.  Must apply patch here https://discord.com/channels/899605564361953300/1037706752222838834/1062215215762128968",,gtaforever00,03-21-23
+Digimon World 4,PAL,AetherSX2,Great,1x,Vulkan,EE Cycle Skip 1. Great performance with rare fps dips.,https://www.youtube.com/watch?v=yVabIgKqie4,The Gaming Geek Net,02-08-23
+Disney Pixar Cars,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL - Fast Settings runs at 100%, can be pushed to 2x but has occasional drops. 
+Will look sluggish but that's because this game internally renders at 25fps",,rehan#8008,12-30-22
+Dot Hack Part 1 - Infection,NTSC-U,AetherSX2,Great,1x,Vulkan,"Some slowdown in the opening cutscene, gameplay runs well. Widescreen Hacks should be turned off to prevent a bunch of visual glitches.",,Jetup13,11-25-22
+Dragon Ball Z - Budokai,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,Fast Settings Turned On. Quite a lot of Visual issues with Vulkan Backend. Vulkan needed for speed.,,Jetup13,12-04-22
+Dragon Ball Z - Budokai 2,PAL,AetherSX2,Perfect,1x,Vulkan,Seems to run perfect without underclock,,Retro Game Corps,11-12-22
+Dragon Ball Z - Budokai Tenkaichi 3,NTSC-U,AetherSX2,Perfect,1x,Vulkan,"EE Cycle Rate 75%, EE Cycle Skip 1. Full 30 FPS performance",https://www.youtube.com/watch?v=y3JRTBghLso (Tenkaichi 4 mod shown),LemonyFlavor,01-28-23
+Dragon Ball Z: Infinite World,ALL,AetherSX2,Perfect,1x,OpenGL,OpenGL + Optimal Settings = Silky smooth 60FPS,,LemonyFlavor,03-21-23
+Dragon Quest V - Hand of the Heavenly Bride,NTSC-U,AetherSX2,Perfect,2x,Vulkan,NTSC. Runs 100%.,,GongStar,12-18-22
+Dragon Quest VIII - The Journey of the Cursed King,PAL,AetherSX2,Great,1.5x,Vulkan,"Hardware Download Mode: Unsynchronized. Threaded Presentation: Enabled. Advanced->Memory Wrapping: Disabled. Advanced->Round Sprite Offset: Full (Fixes slight font missalignment and black lines on the right end of the screen). Runs mostly at 95-100%, you may have an occasional stutter here and there. Word of advice, some settings have no effect at certain viewing angles/areas, while others do.
+
+For example, the Unsynchronized setting did nothing for some dips but at another viewing angle in town it bumped the performance to 100%. So active them all for a smoother experience.",,GongStar,12-18-22
+Dragon Sisters,PAL,AetherSX2,Great,1.5x,Vulkan,PAL. This mediocre beat 'em up runs at 100%.,,GongStar,03-21-23
+Drakan: The Ancients' Gates,PAL,AetherSX2,Great,2x,Vulkan,"Runs 100%. Fast/Unsafe Preset. EE Cycle Rate 100%, EE Cycle Skip 0. Texture Preloading Full. OpenGL creates major model glitches and should not be used. Widescreen hacks enabled but slightly stretches certain HUD elements and makes Rynn WIIDE inside inventory, popping back when menu is closed. Minor but inconsequential stutter in certain indoor areas at all upscaling levels. Halos from light sources can be seen through objects/terrian in some cases but this is an issue on PCSX2 as well and can be ignored.",,BillyZard,03-12-23
+Drakengard,NTSC-U,AetherSX2,Perfect,1x,Vulkan,"EE Cycle Rate 130%, EE Cycle Skip 1, Affinity Control Mode Disabled, Hardware Download Mode Unsynchronised. ",,Nezara & BigSludge,12-30-22
+Drakengard 2,ALL,AetherSX2,Perfect,1x,Vulkan,"EE Cycle Rate 130%, EE Cycle Skip 1, Affinity Control Mode Disabled, Hardware Download Mode Unsynchronised. ",,BigSludge,12-30-22
+Driv3r,ALL,AetherSX2,Bad,1x,Vulkan,"No matter what settings are used, game will not render correctly or run at higher than 8fps at about 10% speed - Emulator limitation ",,BigSludge,12-30-22
+Drive to Survive,NTSC-U,AetherSX2,Great,1x,OpenGL,"NTSC. Tested the first race-track at base settings.
+ Ran perfectly. No drops.",,Neonetik,12-18-22
+Dynasty Warriors 3,NTSC-U,AetherSX2,Playable,1x,Vulkan,Dips to around 85% speed at busier points (sadly not a lot of gameplay shown). PAL may be recommended.,https://www.youtube.com/watch?v=6IF3_8HTeKY,Retro Game Corps,11-27-22
+Dynasty Warriors 4,PAL,AetherSX2,Great,1x,Vulkan,"Optimal defaults, 100% speed, grainy but great performance.",https://www.youtube.com/watch?v=IozdQz4OR-0,The Gaming Geek Net,03-27-23
+Dynasty Warriors 4 - Xtreme Legends,NTSC-U,AetherSX2,Great,1x,Vulkan,Fast Settings Turned On. A little bit of slowdown when theres lots of particles on-screen.,,Jetup13,11-30-22
+Enter the Matrix,PAL,AetherSX2,Great,2x,Vulkan,PAL. Runs 100%.,https://www.youtube.com/watch?v=aQinJETjL4A,GongStar,12-18-22
+Espn NFL 2K5,ALL,AetherSX2,Great,1x,Vulkan,Use Mjolnir Stone Defaults Change EE Rate 180% EE Skip (2) Game runs at 100% after initial cache (PAL) Some occasional slowdown,,FostersHomeFG,03-21-23
+Eternal Poison,NTSC-U,AetherSX2,Great,1x,OpenGL,Runs Great,,Igor Silva,11-25-22
+Eternal Ring,NTSC-U,AetherSX2,Great,1.5x,Vulkan,"Runs 100%, EE 0/0, Widescreen Patch, No-Interlacing, Threaded Presentation, Full Preload.  1.5x for consistency but runs smooth on 2x with TINY slowdown here and there.",,BillyZard,03-12-23
+Extermination,NTSC-U,AetherSX2,Great,1x,OpenGL,"NTSC. Tested the starting area at base settings.
+ Ran perfectly. No drops.",,Neonetik,12-18-22
+Fahrenheit ,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL. Hardware Download Mode: Unsynchronized. Threaded Presentation: Enabled. Runs 100%. You may get some dips at times, especially when screen is split.",,GongStar,12-18-22
+Fairly Odd Parents - Breaking da Rules,ALL,AetherSX3,Playable,1.5x,Vulkan,"Runs at ok speeds, with a lot of slowdowns regardless of resolution 
+(between 1x and 1.5x). No graphical glitches that I was aware of.
+Used CPU at 100% and -3 skip underclock. Seemed to be the best combination,
+instead of underclocking both. Final speeds between 15-30FPS (It is locked at 30)
+Would appreciate anyone attempting better settings here.",,Dekhran,
+Fallout - Brotherhood of Steel,PAL,AetherSX2,Somewhat,1x,Vulkan,PAL. Runs 70-100%. Underclock doesn't seem to do anything. The game has spots on the map that can drop down to 70%ish. So it feels uneven and I bet there will be maps further on in the game that cause bad dips.,,GongStar,03-21-23
+Family Guy - Video Game!,ALL,AetherSX2,Playable,1x,OpenGL,"Title Screen runs slow (35~ FPS | Relaunching Title Screen after being ingame runs fine), once ingame runs fine (60~ FPS)",,Creeper,03-21-23
+Fantavision,PAL,AetherSX2,Perfect,1.75x,Vulkan,PAL. Runs 100%.,,GongStar,12-30-22
+Fatal Frame II: Crimson Butterfly,ALL,AetherSX2,Perfect,2x,Vulkan,"Fast/Unsafe, threaded presentation, EE Cycle Skip - Mild Underclock, unsynchronized.",,Anonymous,03-21-23
+Fight Night Round 2,PAL,AetherSX2,Great,1x,Vulkan,"Optimal defaults, 100% speed, occasional unnoticeable framerate drops.",https://www.youtube.com/watch?v=31dI7lK2vto,The Gaming Geek Net,12-26-22
+Fight Night Round 3,PAL,AetherSX2,Great,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 1. First fight may start below 100% but improves almost immediately. Do the Sleep mode trick to reduce dips (https://www.youtube.com/watch?v=c09JUOzWSo4).",https://www.youtube.com/watch?v=QpN3VRYbTVI,The Gaming Geek Net,02-22-23
+Fight Night Round 3,ALL,AetherSX2,Playable,1x,,"Averages around 56 fps, PAL might make game fully playable",https://www.youtube.com/watch?v=KeaVarhil8A,Retroid Youtube,
+Final Fantasy X ,NTSC-J,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,,Jetup13,
+Final Fantasy X-2,PAL,AetherSX2,Perfect,1x,Vulkan,Seems to run perfect without underclock,,,11-27-22
+Final Fantasy XII,PAL,AetherSX2,Great,1.25x,Vulkan,Multithreaded VU1 enabled. A little bit of slowdown during intense sequences in battles (such as a ton of special effects) and in menu. However it's nothing experience ruining and you can easily put the resolution back to 1x if there's problems.,,Yoona,11-25-22
+Final Fight Streetwise,ALL,AetherSX2,Great,1.5x,Vulkan,"Plays great, just some minimal frame dips. Almost perfect ",,jeeanvictor,03-21-23
+FlatOut 2,PAL,AetherSX2,Bad,1x,Vulkan,"PAL. Runs 60-100%. Underclock only makes the numbers go 100%, still feels sluggish. Not enjoyable.",,GongStar,03-21-23
+Frequency,NTSC-U,AetherSX2,Great,2x,Vulkan,Works great even at 2x!,,Mjolnirstone,12-14-22
+Front Mission 4,NTSC-U,AetherSX2,Great,2x,Vulkan,"NTSC-U. EE Cycle Rate: -1, EE Cycle Skip: 2. To fix lines in dialog boxes, set the following, Round Sprite Offset: Full, TC Offset X/Y: 180/10. Runs 100%. You may experience some dips here and there. FMVs run slow at around 70%.",,GongStar,12-30-22
+Front Mission 5,ALL,AetherSX2,Playable,1x,Vulkan,"Occasional slowdown during combat scenes, usually when there's motion blur applied, but otherwise seems to run quite well at default settings and no underclock",,Kirbysuperstar,12-04-22
+Futurama,ALL,AetherSX2,Perfect,3x,Vulkan,Runs great at 3x Resolution,,Anonymous,03-21-23
+Galactic Wrestling feat. Ultimate Muscle,NTSC-U,AetherSX2,Perfect,2x,Vulkan,Plays great without tweaks. If you get dips (which I did not) reduce the resolution.,,Galvy,12-19-22
+"Getaway, The",PAL,AetherSX2,Playable,1x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 2. Skip Draw Start: 4. Runs mostly at 100%. There are some dips and graphical glitches though. Software rendering will solve those issues but the game runs bad then. The transparent white layer in the distance is removed with skip draw, but the windows on the car don't render then. I've also seen geometry morphing. Hardware Download Mode: Unsynchronized can also help with performance but I don't know if that introduces more glitches.",,GongStar,03-21-23
+Ghost Rider,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 2. Some action sequences might play between 90%-94% speed and there are occasional dips, but mostly sticks to 100%.",https://www.youtube.com/watch?v=wSBRF1kO5GE,The Gaming Geek Net,09-17-23
+Giants - Citizen Kabuto,PAL,AetherSX2,Great,1.5x,Vulkan,PAL. Hardware Download Mode: Unsynchronized. Threaded Presentation: Enabled. EE Cycle Skip: 2. Runs around 95-100%.,,GongStar,12-30-22
+God Hand,NTSC-U,AetherSX2,Playable,1.5x,Vulkan,"Ran at fullspeed for the entirety of the first level in the NA version of the game at 1.5x, can probably handle 1.75x. Dropped down to close to 2/3rds in the Casino though depending on where the camera is facing. Can possible fix this with tweaking + playing on the PAL version. Used EE Cycle Rate -2, EE Cycle Skip 1. Additional settings that I used that may or may not be necessary: Multi-threaded VU1 turned on, Hardware Download Mode set to ""Disable Readbacks"", Synchronization Mode set to ""Async Mix"", and Threaded Presentation turned on.  ",https://www.youtube.com/watch?v=zZ-JmVd3jTs&feature=youtu.be,actremix,11-06-22
+God of War,PAL,AetherSX2,Great,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 1. Hardware Download Mode to Disable Readbacks. Do the Sleep mode trick to reduce dips (https://www.youtube.com/watch?v=c09JUOzWSo4).",https://www.youtube.com/watch?v=GZzxRYh69q0,The Gaming Geek Net,03-10-23
+God of War 2,NTSC-U,AetherSX2,Playable,1x,Vulkan,"Runs at 27-30 fps, definitely a lot of underclocking involved as game is shown to run full speed while not looking SUPER smooth. Not too much audio stuttering though.",https://www.youtube.com/watch?v=lLAtwUrTwyk,Retroid Youtube,12-15-22
+Godzilla - Save the Earth,PAL,AetherSX2,Playable,1x,Vulkan,No underclock. Seems to have some frame dips when hitting something as Godzilla,https://www.youtube.com/watch?v=6IF3_8HTeKY,Retro Game Corps,12-12-22
+Gran Turismo 3,PAL,AetherSX2,Playable,1x,Vulkan,"Same settings used for GT4. Initially had some slowdown the first time I raced around a track with all the racers but after redoing the races there is only minor slowdown when starting, and the rest of the race plays great!
+
+A few tracks do run terrible however such as Special Stage 5 and theres a few other tracks reported by discord users that do not run great. However a good majority run full speed without issue.
+
+Also another setting I added outside of the ones recommended for GT4 was Async Audio to reduce the immersion breaking in case theres dips.",,FruitLoops,11-08-22
+Gran Turismo 4,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate - 130%, EE Cycle Skip - 3, Affinity Control Mode - Disabled, Multi-Threaded VU1 - Enabled, Hardware Download Mode - Unsynchronised, Bilinear Filtering - PS2, Threaded Presentation - Enabled. (PAL)",https://www.youtube.com/watch?v=QNo5WZBWiuU,BigSludge,12-31-22
+Grand Theft Auto III,ALL,AetherSX2,Great,1x,Vulkan,Footage primarily was at full speed no problem. Unknown if underclocking was used but GTA 3 looks good even with underclocking apparently.,https://www.youtube.com/watch?v=WVfqL7TYGu0&t,Retroid Youtube,11-30-22
+Grand Theft Auto Vice City,NTSC-U,AetherSX2,Great,1x,Vulkan,Played through story and a few side missions (NTSC version) ee cycle rate -2 ee cycle skip 2. Had very few slow downs only major slow down was during the all hands on deck mission. Otherwise an enjoyable playthrough,,Whippy,
+Grand Theft Auto: San Andreas,NTSC-U,AetherSX2,Playable,2x,Vulkan,"NTSC. -50% underclock, Hardware download Unsynchronized, 8x Anisotropic filter.",,Mike Hunny,03-21-23
+Grandia 2,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,,Jetup13,11-30-22
+Grandia 3,NTSC-U,AetherSX2,Somewhat,1.5x,OpenGL,"Slowdowns as slow as 70% speed sometimes. 1.5x res does not affect performance so may as well. Use OpenGL. Affinity Control: VU > EE > GS, Advanced->VU1 Clamp Mode: None.",,Cristoffer,11-30-22
+Grandia Xtreme,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,11-30-22
+Grim Grimoire,PAL,AetherSX2,Perfect,2x,Vulkan,Runs perfectly both in visual novel story segments and in gameplay on safe settings. No speedhacks necessary. (PAL),,Mike22,11-30-22
+Grim Grimoire,NTSC-U,AetherSX2,Perfect,2x,Vulkan,Runs perfectly both in visual novel story segments and in gameplay on safe settings. No speedhacks necessary. (NTSC-U),,Mike22,12-30-22
+Growlanser 2,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,11-30-22
+Growlanser 3,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,12-14-22
+Growlanser 5,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,12-04-22
+Growlanser 6,NTSC-J,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,11-23-22
+Guitar Hero 3,ALL,AetherSX2,Bad,,,Varies a lot between 60-80% and unfortunately makes the game totally unplayable.,,gui,03-21-23
+Gun,NTSC-U,AetherSX2,Playable,1x,Vulkan,NTSC. Slow/unstable preset. Plays decent 30fps with some dips in the 20s,,gtaforever00 ,12-31-22
+Gundam: Federation Vs. Zeon,ALL,AetherSX2,Great,1x,Vulkan,This ran nearly flawlessly on the original RP2+/3 at PAL 50fps and now runs flawlessly on the RP3+ at NTSC 60fps.  Partly through the campaign with no real issues.  Run at 0/0,,ChronoReverse,12-30-22
+Gungriffon Blaze,PAL,AetherSX2,Perfect,1x,Vulkan,Runs well on optimized defaults.,https://www.youtube.com/watch?v=wgrcOFf2gfg,The Gaming Geek Net,01-17-23
+Half-Life,ALL,AetherSX2,Perfect,2x,Vulkan,"Totally playable, 60 fps stable",,Smoje79,12-30-22
+Haunting ground,ALL,AetherSX2,Perfect,1.5x,OpenGL,"Requires OpenGL for good performance
+edit: Vulkan works well at 1x and has no issues with widescreen.
+ OpenGL widescreen causes shadow issues.",,,12-30-22
+Hitman - Blood Money,PAL,AetherSX2,Bad,1x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 2. Runs 70-100%, with frequent dips down to 70-90%. Has graphical glitches with shadows, where they appear bright green or red.",,GongStar,03-21-23
+Hitman - Contracts,PAL,AetherSX2,Bad,1x,Vulkan,PAL. Runs 12% in the start menu with in game graphics. Same performance with OpenGL and Vulkan. Runs extremely poorly.,,GongStar,03-21-23
+Hot Shots Golf Fore! ,ALL,AetherSX2,Bad,1x,Vulkan,"Menu works, gameplay maxes at 6fps. Tried all resolution options, open gl and as many settings variations as possible",,Vruzy,03-21-23
+I- Ninja,NTSC-U,AetherSX2,Great,1.25x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 0. Game runs great with some very minor slow downs. Most slow downs are when you are rolling on the giant ball very fast.",,Galvy,12-19-22
+Ico,ALL,AetherSX2,Great,1x,Vulkan,"EE Cycle Rate 100%, EE Cycle Skip Normal, Multi-Threaded VU1, Instant VU1; Graphics > Threaded Presentation; Advanced > EE FPU Correct Add/Sub. 
+NTSC running at 60fps most of the time. PAL running at 50fps most of the time. Occasional stuttering when panning large environments. Will continue to play through.",,domeng,11-25-22
+Incredible Hulk: Ultimate Destruction- NTSC,NTSC-U,AetherSX2,Great,1.75x,Vulkan,"EE cycle rate 75%, EE cycle skip 1. Runs at 60fps. 
+May get minor slow downs when bashing alot of stuff. ",,Galvy,11-30-22
+Indigo Prophesy aka Farenheit ( the PAL version),NTSC-U,AetherSX2,Great,1.25x,Vulkan,"No underclock, very small fps dip when going to a new area but seems to be perfect outside of that!",https://www.youtube.com/watch?v=6IF3_8HTeKY,Retro Game Corps,11-25-22
+Inuyasha - Feudal Combat,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,https://www.youtube.com/watch?v=Do-DbW_gUEc,Jetup13,11-28-22
+Jackass: The Game,PAL,AetherSX2,Great,1x,Vulkan,"EE cycle rate 75%, EE cycle skip 1. Runs great, with minimal dips.",https://www.youtube.com/watch?v=YKflqbJWLtY,The Gaming Geek Net,04-14-23
+Jade Cocoon 2,PAL,AetherSX2,Great,1.5x,OpenGL,PAL. EE Cycle Rate: -3. Runs mostly 100%. Certain effects/scenes will cause dips into 70%. The cycle underclock is to remove slow down in FMV and doesn't seem to affect the gameplay negatively.,,GongStar,12-30-22
+Jak and Daxter  ,PAL,AetherSX2,Playable,1.5x,Vulkan,"EE Cycle rate 2 (180%), EE Cycle Skip 3. Runs full speed with only minor dips. However it is very much underclocked making it look quite sluggish (runs at 25-30fps eventhough the gameplay itself is full speed)",https://www.youtube.com/watch?v=v9UeUacYRts,Yundaz,11-26-22
+Jak and Daxter 2,PAL,AetherSX2,Playable,1x,Vulkan,Has some dips at 1.5x in the video and clearly underclocked (look at the video for settings) but the game is reportedly decently playable at 1x. However certain camera angles will lag the game.,https://www.youtube.com/watch?v=YcY5CAeCSi0,Yundaz,11-25-22
+Jet Li - Rise to Honor,PAL,AetherSX2,Perfect,1.5x,Vulkan,"Fast Settings, runs perfectly on 1.5x, sometimes could be pushed up to 2x with minor slowdowns during cutscenes.",,Mike22,12-30-22
+Jojo no Kimyou na Bouken - Phantom Blood,NTSC-J,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,,Jetup13,12-16-22
+Kamen Rider Hibiki,NTSC-U,AetherSX2,Playable,1x,Vulkan,Some Slowdown during the opening.,,Jetup13,
+Katamari Damacy,NTSC-U,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate - 300%, EE Cycle Skip - 3, Affinity Control Mode - Performance Cores, Hardware Download Mode - Unsynchronised, Threaded Presentation - Enabled. NTSC-U Note: Frames drop to around 20fps in busy scenes, emulation speed should remain around 100% however.",,ChronoReverse & BigSludge,12-30-22
+Kill.switch,NTSC-U,AetherSX2,Great,1.5x,Vulkan,"EE Cycle Rate -2, EE Cycle Skip 1. Advanced Settings> set Interlacing to ""Weave Top Field First"". The reason for this is that the menus will flicker so much you cannot read anything. This fix works great and does not affect game play. The game plays great as well.",,Galvy,12-19-22
+Killzone,PAL,AetherSX2,Somewhat,1x,Vulkan,"PAL. Runs 75-100%, with some dips. Underclock still feels a bit slow.",,GongStar,03-21-23
+King of Fighters 2002,NTSC-U,AetherSX2,Bad,1x,Vulkan,Major Graphical Glitches,,Jetup13,11-25-22
+King of Fighters XI,ALL,AetherSX2,Perfect,1x,,Runs perfectly,,,03-21-23
+King of Fighters: Maximum Impact,PAL,AetherSX2,Perfect,1x,Vulkan,Runs 100% consistently on Optimal Settings.,,LemonyFlavor,03-12-23
+Kingdom Hearts,ALL,AetherSX2,Perfect,3x,Vulkan,"Played up to Traverse Town, game runs full speed at 3x resolution somehow! 
+
+(FruitLoops Note: Even at 1x I was getting fps problems until I turned on Fast Settings then the game performance SKYROCKETTED). You can set the underclock settings to 0/0 afterwards if you dont want the game to look sluggish after setting fast settings.)",,vllgr,11-27-22
+Kingdom Hearts - Re:Chain of Memories,NTSC-J,AetherSX2,Perfect,1x,Vulkan,"Fast Settings Turned On. FMVs are a bit slow but gameplay is basically perfect.
+
+(Note from  Cristoffer: Game Fixes->Use Software Renderer for FMVs: Enabled, will remove the stutters from FMV, at least it does for the intro.
+
+I realized though that putting the pause menu on an FMV will return you to the normal renderer and it will be very sluggish.)",,Jetup13,11-30-22
+Kingdom Hearts 2,ALL,AetherSX2,Perfect,1x,Vulkan,"Amazing, sticks between 29 and 30 fps the entire time, no tweaks, even flying in gummi ship is fine, occasional minor graphical glitch I've noticed but nothing too bad or frequent, might not even be noticeable",,,11-30-22
+Kingdom Hearts 2: Final Mix,NTSC-J,AetherSX2,Perfect,2x,Vulkan,"Runs pretty well, steady 60fps most of the time. In cutscenes, during crossfade transitions it stutters a bit. Setting Hardware Download Mode to Unsynchronized helps with these stutters. Also setting Audio to Async mix helps with audio stutters during those dips. (NTSC-J)",,Mike22,12-30-22
+Kings Field IV: The Ancient City,PAL,AetherSX2,Great,1x,Vulkan,"Default Settings, Enabled Threaded Presentation, Vulkan Render and Enabled No Interlacing Patches. The game also has working widescreen patches. The game runs at 100% speed at all times. The only issue is when you open your menu it screenshots the game to use as the BG and this doesn't render correctly. This however is still a issue on desktop PCSX2 and has no fix. You can go into the options in game and change the bg to not use a screenshot and this will fix that issue.",https://www.youtube.com/shorts/bodYa2Fgd1U,PixogenPixels,03-12-23
+Klonoa 2,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,"Change EE Cycle Rate 60%, EE Cycle Skip Moderate, Normal Speed 120%, & Threaded Presentation On.",,Jetup13,11-26-22
+Legacy of Kain - Defience,PAL,AetherSX2,Great,1x,OpenGL,Runs Great. Only frame dips on the opening cgi. The rest is full speed.,,Igor Silva,11-30-22
+Legaia 2,NTSC-U,AetherSX2,Great,1x,OpenGL,Runs fine on the overworld in the PAL version. Battles not tested yet because It takes some time to unlock the first one.,,Igor Silva,11-30-22
+Lego Racers 2,NTSC-U,AetherSX2,Bad,1x,Vulkan,Major Graphical Glitches,,Jetup13,11-25-22
+"Lord of the Rings, The - The Fellowship of the Ring",PAL,AetherSX2,Perfect,2x,Vulkan,PAL. Runs 100%.,,GongStar,03-21-23
+"Lord of the Rings, The - The Two Towers",PAL,AetherSX2,Great,1x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 1. Runs 100% with a mild underclock. Some little dips can occur.",https://www.youtube.com/watch?v=lj_mWdywrwE,GongStar,03-21-23
+Lord of the Rings: Return of the King,ALL,AetherSX2,Great,1x,Vulkan,"Runs pretty well, steady 60fps most of the time with fast settings. There is a glitch with some text in the menus that are invisible but everything else is good.",,Charlyb07,03-21-23
+Lord of the Rings: The Third Age,PAL,AetherSX2,Playable,1.25x,Vulkan,"The game is playable with EE Cycle Rate: -1, EE Cycle Skip: 1, Hardware Download Mode: Unsynchronized. There are occasional framerate drops during transitions and before attack animations. Don´t try widescreen patches on this one, they slow the game down a lot, including FMV´s. Don´t push EE Cycle Rate and EE Cycle Skip Rate too much, past -2/2 the game starts to feel very choppy. (PAL)",,Mike22,12-30-22
+Lumines Plus,NTSC-U,AetherSX2,Perfect,1x,,Fast Settings Turned On,,Jetup13,11-30-22
+Mana Khemia 1,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,11-27-22
+Mana Khemia 2,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,11-26-22
+Manhunt,PAL,AetherSX2,Great,1x,Vulkan,EE Cycle Skip 1. The Sleep mode trick reduces dips (https://www.youtube.com/watch?v=c09JUOzWSo4) but there will still be a few.,https://www.youtube.com/watch?v=d_glNx7tFzY,The Gaming Geek Net,03-02-23
+Max Payne,PAL,AetherSX2,Great,1x,Vulkan,"EE Cycle Skip 1, set Hardware Download Mode to Disable Readbacks. Great performance with minimal dips.",https://www.youtube.com/watch?v=YKNS_sg8U8I,The Gaming Geek Net,09-04-23
+Maximo,PAL,AetherSX2,Great,1x,Vulkan,Opening Area runs perfect! Zero dips below 100% whatsoever. However it is unknown if performance gets worse after that. Still a very strong first impression though!,,Mjolnirstone,11-28-22
+Maximo vs Army of Zin,PAL,AetherSX2,Great,1.5x,Vulkan,PAL. Runs 100%. It can sort of run at 2x but there are dips into low 90% and perhaps it could get worse depending on the scene/battle.,,GongStar,12-30-22
+Medal of Honor,PAL,AetherSX2,Playable,1x,Vulkan,"EE cycle rate - 2, really debating on whether or not i'd consider this playable or only ""somewhat"". The game is running at 100% with the underclock but it looks very sluggish and the intro apparently had a lot of slowdown. Future areas may be much more demanding.",https://www.youtube.com/watch?v=OFBGg9E7Gzw,Mjolnirstone,11-25-22
+Medal of Honor: Frontline,PAL,AetherSX2,Great,1x,Vulkan,EE Cycle Skip 1. Runs great.,https://www.youtube.com/watch?v=zVBQc_RCLUU,The Gaming Geek Net,03-27-23
+Mercenaries,NTSC-U,AetherSX2,Great,1.5x,Vulkan,"Manages to achieve 90-100% speed, all text in game is readable and all voices sound perfect, only dips in performance are when the huge explosions happen, but not much affects it. - Used (USA) rom.",,Paul Pollington,12-30-22
+Mercenaries: Playground of Destruction,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 1. Do the Sleep mode trick to reduce dips (https://www.youtube.com/watch?v=c09JUOzWSo4). Some glitching with headlights passing through objects and occasional lags, but generally locked at 100% speed.",https://www.youtube.com/watch?v=2S8TIAV6QDs,The Gaming Geek Net,04-10-23
+Metal Arms - Glitch in the System,PAL,AetherSX2,Great,2x,Vulkan,"PAL. EE Cycle Skip: 2. Runs 100%. Only checked out the start, if performance dips, lower the resolution.",,GongStar,12-30-22
+Metal Gear Solid 2: Sons of Liberty,PAL,AetherSX2,Somewhat,1x,Vulkan,(Runs about the same as Substance. Occasionally hits 100% speed but usually is running at about 70-80%.,,C.Mongler,11-27-22
+Metal Gear Solid 2: Substance,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,Can dip as low as 40fps. Device gets warm. PAL recommended most likely,,Jetup13,11-08-22
+Metal Gear Solid 3: Snake Eater,NTSC-U,AetherSX2,Playable,1x,Vulkan,EE Cycle -2. 50-60 fps in opening area (the opening area should theoretically be very demanding and a good benchmark for the rest of the game due to the high amount of foliage). PAL version will most likely greatly improve gameplay experience.,,roofpooper,11-25-22
+Metal Saga,NTSC-J,AetherSX2,Perfect,2x,Vulkan,"Game runs perfectly without any slowdown, tested the Japanese version of the game",,,12-30-22
+Midnight Club 3: DUB Edition,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,"NTSC.  Fast/Unsafe settings. EE Cycle Rate -1, EE Cycle Skip 2 it was running 1
+0-15 in game FPS.  First person camera was slightly better but things seemed slow",,gtaforever00,12-30-22
+Mister Mosquito,NTSC-U,AetherSX2,Playable,1x,Vulkan,Fast Settings On. Has some graphical glitches.,,Jetup13,11-25-22
+MLB 11: The Show,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 2, set audio Synchronization mode to Async Mix and Hardware Download Mode to Disable Readbacks. Has some dips in the regular modes, which are more frequent in the special game modes (e.g. Manager's Mode, Road to the Show).",https://www.youtube.com/watch?v=KNPSicFW0Dw,The Gaming Geek Net,06-10-23
+MLB Power Pros 2008,ALL,AetherSX2,Perfect,1x,Vulkan,Game works perfectly fine at full speed,,raheemh,03-21-23
+Monster Hunter,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,,Jetup13,11-27-22
+Monster Rancher 4,PAL,AetherSX2,Perfect,1.5x,Vulkan,PAL. Runs 100%.,,GongStar,12-30-22
+Mortal Kombat - Deadly Alliance,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,,Jetup13,11-25-22
+Mortal Kombat - Deception,NTSC-U,AetherSX2,Perfect,1.75x,Vulkan,No tweaks needed. Runs great,,Galvy,12-19-22
+Mortal Kombat - Shaolin Monks,ALL,AetherSX2,Playable,1x,Vulkan,"EE loop skip - 1. 52-60 fps, PAL version might run full speed all the way?",https://www.youtube.com/watch?v=5b1xeCy9HZw,Retroid Youtube,11-16-22
+Mortal Kombat Armageddon,NTSC-U,AetherSX2,Perfect,1x,Vulkan,"Flawless in Konquest, Kombat and Kart. NTSC",,Kirbysuperstar,12-30-22
+Namco Museum 50th Anniversary,ALL,AetherSX2,Playable,1x,Vulkan,"Game selection screen can dip to ~62% (37 FPS) when looking at Pole Position to Dig Dug. The games themselves run fine, otherwise.",,PANICMOUSE,03-21-23
+Nanobreaker,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,"NTSC. Performance in the starting area seemed to hover anywhere between
+70% to 100% in the starting area (depending on the amount of blood staining
+ the ground), regardless of what settings were used. 
+
+Very minor improvements through underclocking. OpenGL boosts performance a
+little, but results in some graphical glitches with smoke. Likely to be playable/great
+if using the pal version.",,Neonetik,12-30-22
+Naruto - Ultimate Ninja,NTSC-U,AetherSX2,Playable,1x,Vulkan,Fast Settings Turned On. FMVs are a bit slow but gameplay is basically perfect.,,Jetup13,12-06-22
+Naruto Shippuden - Ultimate Ninja 5,PAL,AetherSX2,Great,1.5x,Vulkan,PAL. Runs 100%. Tested in a Free Battle with Naruto vs Naruto.,,GongStar,03-21-23
+NBA 2K12,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 2, set Hardware Download Mode to unsynchronized. Cutscenes can be below 100% but the gameplay itself is 100% with occasional dips.",https://www.youtube.com/watch?v=zWrGhdU9LBk,The Gaming Geek Net,01-16-23
+NBA Street,PAL,AetherSX2,Great,1x,Vulkan,EE Cycle Skip 1. Plays at 100% with minimal framerate dips,https://www.youtube.com/watch?v=m2Jb54mxxCM,The Gaming Geek Net,12-30-22
+NBA Street Vol 3,ALL,AetherSX2,Great,2x,Vulkan,EE Cycle Rate 75%(-1) EE Cycle Skip 1,,StayThePath,03-21-23
+Need for Speed - Hot Pursuit 2,PAL,AetherSX2,Playable,1.5x,Vulkan,"EE Cycle Rate: -1, EE Cycle Skip: 2. Hardware Download Mode: Unsynchronized. Runs 100% although a bit choppy. At 1x it seemed to run well until I got to a certain part of the track where it dipped down to 50-60%. Underclocking fixed this but at that point you could increase resolution to 1.5x.",, GongStar,
+Need for Speed - Underground,NTSC-U,AetherSX2,Bad,1x,Vulkan,Lots of Slowdown,,Jetup13,11-28-22
+Need for Speed: Most Wanted,PAL,AetherSX2,Great,2x,Vulkan,"PAL. Game runs perfect at 1x or 2x resolution, makes no difference, 30 fps throughout.",,Paul Pollington,12-30-22
+Need for Speed: Underground 2,PAL,AetherSX2,Playable,1x,Vulkan,EE Cycle Skip 1. Races start slow but will hit 100% after a while. Occasional framerate dips in Explore mode.,https://www.youtube.com/watch?v=s8rSv45Uyhk,The Gaming Geek Net,01-09-23
+NFL Street,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 2, set audio Synchronization mode to Async Mix and Hardware Download Mode to Unsynchronized. Has some dips but very playable.",https://www.youtube.com/watch?v=23p2tq326es,The Gaming Geek Net,06-10-23
+NHL Hitz Pro,NTSC-U,AetherSX2,Great,1x,Vulkan,EE Cycle 180% EE Skip 1. Widescreen patches. Little bit of slowdowns.,,Rocco,03-14-23
+Obscure,PAL,AetherSX2,Great,1.5x,Vulkan,"Runs very well with safe settings with occasional minor slowdowns during intensive scenes. Setting EE Cycle Rate: -1, EE Cycle Skip: 1 helps, or you could try to lower resolution to 1.25x or 1x. (PAL)",,Mike22,12-30-22
+Obscure 2,PAL,AetherSX2,Great,1.5x,Vulkan,Runs well on safe settings. Setting EE Cycle Rate: -1 and EE Cycle Skip: 1 has no particular side effects and might help with potentional framerate dips. There are some very minor geometry glitches. (PAL),,Mike22,12-30-22
+Odin Sphere,NTSC-U,AetherSX2,Great,1.5x,Vulkan,"Safe settings as a base, Hardware Download Mode Unsynchronised, Threaded Presentation On, works fine up to 1.5x (NTSC)",,Mike22,12-30-22
+Okami,NTSC-U,AetherSX2,Playable,1x,Vulkan,"Some slowdown to 22-25fps in large areas and areas with lots of fire or fog 
+environmental effects. Outside of those areas, runs 90%+ and even 1.25x 
+resolution seems decent. Overall playable.",,Anonymous,12-30-22
+Oni,PAL,AetherSX2,Playable,1.5x,Vulkan,"EE Cycle Rate: -2. FMV runs at 80-100%. Start menu runs at 20-30%. Mission intro screen at 5-10%. Gameplay runs at 100%. Adding, Hardware Download Mode: Unsynchronized, will make the game run well up to 3x but effects like lights can be seen through walls then.",,GongStar,12-30-22
+Onimusha - Warlords,NTSC-U,AetherSX2,Great,1x,Vulkan,Fast Settings Turned On,,Jetup13,11-30-22
+Onimusha 2,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL. NTSC should work fine too, though maybe at a lower resolution",,Jelzer,03-21-23
+Onimusha 3: Demon Siege,ALL,AetherSX2,Bad,1x,Vulkan,"Slow in both gameplay and in-game cinematics. I started on fast settings, but messing up with EE Cycle Rate and EE Cycle Skip causes general slowdown and audio desynchronisation. In gameplay it runs at about 50 fps. Too slow to  enjoy. PAL version is just as slow.",,Mike22,12-30-22
+Outrun 2006,PAL,AetherSX2,Great,1.5x,Vulkan,"Threaded Presentation: Enabled. Hardware Download Mode: Unsynchronized. EE Cycle Skip: 2 (Normally the game runs 100% without this but if you drive into sand in certain places it can cause the game to dip to around 80%).
+Game runs well at 1.5x but going up to 2x can once again cause dips when driving into sand even with Cycle Skip 2.",,Cristoffer,01-03-22
+Parappa the Rapper 2,PAL,AetherSX2,Great,1x,Vulkan,"There will be a giant left black box that will take the form of a bunch of noodle-like shapes when you start a game. To fix this, go to in-game settings and enable ""Disable Depth Emulation"". EE Loop Skip 2. Set Audio to Asynchronous mode.
+
+The game will run at 40-50fps with the game saying that its running at 80% however Audio/Timing doesn't actually get affected and the game feels very smooth so don't worry about it.",,FruitLoops,11-08-22
+Persona 3: FES,ALL,AetherSX2,Perfect,1x,Vulkan,"Runs Great!
+(Christoffer Cortes Sjöwall note - OpenGL. On the final boss of the first block in Tartarus, the game slows down for some reason. The slow down only happens in Vulkan even at 1x. OpenGL handles it fine and the performance of the two is otherwise comparable.)",,CMongler,12-30-22
+Phantasy Star Generation 1,ALL,AetherSX2,Perfect,1.5x,Vulkan,Runs Great!,,Yoona,12-04-22
+Phantasy Star Universe,PAL,AetherSX2,Great,1x,OpenGL,"Runs Great. Some small frame dips here and there, but nothing major",,Igor Silva,11-27-22
+Phantasy Star Universe - AotI,PAL,AetherSX2,Great,1x,OpenGL,"Runs Great. Some small frame dips here and there, but nothing major",,Igor Silva,11-26-22
+Playboy the Mansion,PAL,AetherSX2,Perfect,1.5x,Vulkan,Works perfectly! No over/underclock needed or special settings.,,TrillTrappin#5190,03-29-23
+Prince of Persia - The Sands of Time,PAL,AetherSX2,Perfect,1.5x,Vulkan,The game runs perfectly fine on safe settings. On latest AetherSX2 alpha (1.5-3460) you can push it to 1.5x with FXAA shader with only very minor dips in extremely intensive scenes. (PAL),,Anonymous,12-30-22
+Prince of Persia - The Two Thrones,PAL,AetherSX2,Playable,1.5x,Vulkan,"Game has many slowdowns on safe settings even on 1x.Setting Hardware Download Mode: Unsynchronized helps with the performance, but introduces occasional graphical glitches (black screen), it´s most notable on main menu. With EE Cycle Rate: -1 you can push it to playable 1.5x ",,Mike22,12-18-22
+Prince of Persia - Warrior Within,PAL,AetherSX2,Playable,1x,Vulkan,"Tested first effect heavy gameplay segment on ship. EE Cycle Rate: -1, EE Skip Rate 1, setting Hardware Download Mode to anything but accurate causes annoying rendering glitches that blocks view. Not playable past 1x",,Mike22,12-18-22
+Pro Evolution Soccer 3,PAL,AetherSX2,Perfect,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 1. Intro movie only runs at 50% but the game runs at 100% with infrequent framerate dips",https://www.youtube.com/watch?v=LE_NCT21BT0,The Gaming Geek Net,12-27-22
+Project Zero (Fatal Frame),PAL,AetherSX2,Perfect,1x,Vulkan,EE Cycle Skip 1. Hardware Download Mode must be on accurate for the camera to take pictures and detect anomalies,https://www.youtube.com/watch?v=hdjxsD3ye3k,The Gaming Geek Net,03-09-23
+Psi-Ops Mindgate Conspiracy,NTSC-U,AetherSX2,Great,1.75x,Vulkan,"EE Cycle Rate -2, EE Cycle Skip 2. Runs very well with very minor dips  during shootuts (sometimes). If you choose to use Open GL which I do not recommend, you will need enable Skipdraw 3 up and 3 down.",,Galvy,12-19-22
+Psychonauts,ALL,AetherSX2,Playable,1.5x,Vulkan,"EE Cycle Skip: 2. Hardware Download Mode: Unsynchronized. Threaded Presentation: Enabled. TC Offset X/Y: 180/200 (To fix glowing highlight).
+
+Runs 100% in gameplay. Brining up the menu is really laggy and will drop to around 14% during the animation. Once you are in the menu though it's back to 100%.
+
+Due to the nature of the underclocked PS2 the game FPS is overall kinda low (averages around 20-25 fps in demanding-ish areas), gameplay itself is full speed but it is very choppy and noticeably underclocked.",,Jetup13,11-08-22
+R-Racing Evolution,NTSC-U,AetherSX2,Bad,1x,Vulkan,Fast Settings On. Lots of FPS drops (as low as 50% speed),,Jetup13,11-30-22
+R-Type Final,PAL,AetherSX2,Great,1.25x,Vulkan,"EE cycle rate 75%, EE cycle skip 2. Runs at 50fps and 100% speed. May get minor slow down on large boss battle. Only happened once to me.",,Galvy,11-30-22
+Radiata Stories,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,"Lots of FPS drops, not super enjoyable but technically playable.",,Jetup13,11-30-22
+Ratchet & Clank,ALL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate - 130%, EE Cycle Skip - 1, Affinity Control Mode - Disabled, Multi-Threaded VU1 - Enabled, Threaded Presentation - Enabled. (NTSC-U). 
+
+Game performance is very good however the cycle skipping makes the frame pacing of the game choppy making it not as enjoyable but still more than playable.",,UnbelievableFlavour,12-30-22
+Ratchet & Clank 2,PAL,AetherSX2,Great,1x,Vulkan,"EE Cycle Rate 130%, EE Cycle Skip 1. Great performance with minimal dips",https://www.youtube.com/watch?v=Cb5G9rvH6AY,The Gaming Geek Net,04-07-23
+Ratchet and Clank 3,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate - 130%, EE Cycle Skip - 1, Affinity Control Mode - Disabled, Multi-Threaded VU1 - Enabled, Hardware Download Mode - Unsynchronised, Threaded Presentation - Enabled. (NTSC-U). 
+
+Game performance is very good however the cycle skipping makes the frame pacing of the game super choppy making it not as enjoyable but still more than playable.",,BigSludge,12-30-22
+Rayman 2 Revolution,ALL,AetherSX2,Perfect,1x,Vulkan,Runs perfect! No underclock!,https://www.youtube.com/watch?v=zsNTOEUQ8m8,Retroid Youtube,11-25-22
+Rayman 3 - Hoodlum Havoc,NTSC-U,AetherSX2,Perfect,1.5x,Vulkan,"Game runs nicely, mostly full speed on safe settings.You can push it to 1.5x with FXAA easily.",,Mike22,12-18-22
+RC Revenge Pro,PAL,AetherSX2,Great,2x,Vulkan,"Blending Accuracy must be set to ultra or the rain is broken. Runs great, no dips in FPS noticed after 20 mins of gameplay.",,ConnorD,
+Red Dead Revolver,PAL,AetherSX2,Perfect,1.5x,Vulkan,PAL. Hardware Download Mode: Unsynchronized. Runs 100%.,,GongStar,12-30-22
+Resident Evil 4,PAL,AetherSX2,Perfect,1x,Vulkan,"PAL.  Runs perfectly well, with 0 adjustments. Remember to hold down Triangle and X buttons while booting to run the game with progressive scan enabled.",,Ric Flair,03-21-23
+Resident Evil Code Veronica,PAL,AetherSX2,Great,1x,OpenGL,Runs Great,,Igor Silva,12-14-22
+Resident Evil Outbreak 1,PAL,AetherSX2,Great,1x,OpenGL,Runs Great,https://www.youtube.com/watch?v=N39rE2v_Mm0,Igor Silva,12-04-22
+Resident Evil Outbreak 2,PAL,AetherSX2,Great,1x,OpenGL,Runs Great,,Igor Silva,12-04-22
+Resident Evil: Dead Aim,PAL,AetherSX2,Great,1x,Vulkan,EE Cycle Skip - 1. Runs great.,https://www.youtube.com/watch?v=g7Y_G8WGRgE,The Gaming Geek Net,03-21-23
+Resident Evil: Dead Aim,ALL,AetherSX2,Playable,1.5x,OpenGL,"
+Run 80-100% frame rate drop both opengl and vulkan when lots of zombies. With a wide area like a hall, adjusting the resolution x1 doesn't help. Run normally in a narrow room with a few zombies. 
+Can play until the end of the game",,jitakorn doungin,03-21-23
+Ridge Racer V,NTSC-U,AetherSX2,Bad,1x,Vulkan,Lots of Slowdown,,Jetup13,11-25-22
+Rise to Honor,NTSC-U,AetherSX2,Perfect,1.5x,Vulkan,"Fast Settings, runs perfectly on 1.5x, sometimes could be pushed up to 2x with minor slowdowns during cutscenes.",,Mike22,12-30-22
+Robot Alchemic Drive,ALL,AetherSX2,Perfect,1x,Vulkan,"Ran great with Vulkan and default settings, probably room for optimization.",,Taisuru,12-30-22
+Rocky Legends,PAL,AetherSX2,Great,1x,Vulkan,"EE Cycle Rate 130%, EE Cycle Skip 1. Stays at 95%-100% with occasional dips.",https://www.youtube.com/watch?v=Pf5uBotyhTQ,The Gaming Geek Net,01-23-23
+Rogue Galaxy,NTSC-U,AetherSX2,Playable,1.25x,Vulkan,"Hardware download mode needs to be set to Unsync and use -2 underclock and -3 cycle skip
+Async Audio turned on to improve audio stutter/quality when theres the occasional slowdown",https://www.youtube.com/watch?v=zBGnFl8MXps,Jelzer,11-25-22
+Rogue Trooper,NTSC-U,AetherSX2,Bad,1x,Vulkan,Even with max underclocking and .05x resolution this game runs at 15 fps and 40% speed at best.,,Galvy,12-14-22
+Rule of Rose,NTSC-U,AetherSX2,Great,1x,Vulkan,No issues. Widescreen patches work as well.,,datgoodnooch,12-30-22
+Rumble Roses,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,Graphic Settings > Hardware Download Mode > Accurate to fix graphical errors. FPS drops to 45/60 during some angles/moves,,Jetup13,11-27-22
+Rygar - The Legendary Adventure,PAL,AetherSX2,Perfect,2x,Vulkan,Runs 100%.,,GongStar,12-30-22
+Saint Seiya: The Hades,ALL,AetherSX2,Perfect,1.5x,Vulkan,Plays great. ,,Anonymous,03-21-23
+Samurai Champloo - Sidetracked,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,Graphic Settings > Hardware Download Mode > Accurate to fix graphical errors. Slow on 2nd level. Needs more testing.,,Jetup13,11-25-22
+Samurai Warriors - XTreme Legends,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Fast Settings Turned On,,Jetup13,11-30-22
+Samurai Western,ALL,AetherSX2,Great,2x,Vulkan,EE Cycle Rate 75% EE Cycle Skip 1,,Scogin,03-21-23
+Scarface: The World is Yours,PAL,AetherSX2,Somewhat,1x,Vulkan,"Applying any Cycle Rate overclocking will result in graphical glitches (flashes of pink and green). No overclocking results in inconsistent frame rates, going as low as 60% game speed.",https://www.youtube.com/watch?v=7olrR6mlukk,The Gaming Geek Net,03-07-23
+Scooby-Doo: Night of 100 Frights (NTSC),ALL,AetherSX2,Perfect,1.75x,Vulkan,"Default settings, Played up to 25%, no dips, 16:9 with widescreen patches enabled
+
+What's surprising is that at times it can support up to 4x at 60. 2x was only really needed at certain points in the game where there was a LOT on screen, but I'm listing it as it's the most stable.",,ZackXevious,11-30-22
+Scooby-Doo! Mystery Mayhem (PAL),ALL,AetherSX2,Playable,1.5x,Vulkan,"Seems like it's capped at 25FPS in general. Some quick dips in framerate, 
+generally not affecting gameplay.
+Seems to run fine even with both max underclockings. Haven't tested for too long though
+Does not crash after the first zone!",,Dekhran,03-21-23
+Sengoku Basara,NTSC-J,AetherSX2,Perfect,1x,Vulkan,"Runs great, need to enable multi-threaded VU1 to run at full speed",,,
+Shadow Hearts,PAL,AetherSX2,Perfect,1x,Vulkan,"No underclock, seems to run perfect!",https://www.youtube.com/watch?v=6IF3_8HTeKY,Retro Game Corps,11-08-22
+Shadow Hearts - Ftnw,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,12-05-22
+Shadow Hearts Covenant,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,12-04-22
+Shadow Man - 2econd Coming,PAL,AetherSX2,Perfect,1.25x,Vulkan,EE Cycle Skip: 2. Runs 100%. Cycle skip removes some harsher dips and the gameplay still feels smooth.,,GongStar,12-30-22
+Shadow of Rome,PAL,AetherSX2,Bad,1x,OpenGL,Massive Frame dips,,Igor Silva,11-25-22
+Shadow of the Colossus,PAL,AetherSX2,Playable,1x,Vulkan,EE cycle rate -2. Use the pnach file to disable certain effects. The game itself will run full speed even during Colossus fights but overworld shenanigans are at 30fps and colossus fights are at 20fps so despite them playing at full speed it looks choppy. Someone was able to beat the game and confirms that the game's performance is overall solid but choppy.,,FruitLoops,05-18-23
+Shadow Tower Abyss,ALL,AetherSX2,Great,1.5x,Vulkan,"NTSC-J. Runs 100%, EE 0/0, Widescreen Patch but has native support, No-Interlacing, Threaded Presentation, Full Preload HDM accurate. Playing on Fan-Translation Patch. Game has a flickering glitch when near light sources and moving the camera -> To fix, activate Manual Hardware Fixes, activate ""Disable Depth Emulation"". Glitch exists on both AetherSX2 and PCSX2. Could probably run at 100% on 1.75x but recieved small slowdown at 2x when moving through foliage. ",,BillyZard,03-21-23
+Shin Megami Tensei 3: Nocturne,NTSC-U,AetherSX2,Perfect,2x,OpenGL,"Advanced->Disable Depth Emulation: Enabled (This gives a massive
+boost in performance). To smooth out dips you can set the following: 
+
+EE Cycle Rate: 1, EE Cycle Skip: 1, Advanced>VU Clamp Mode: None. 
+
+The game seems to run 100% and Vulkan performs worse than OpenGL. 
+Only opening spots and the hospital tested so far.",,Cristoffer,11-16-22
+Shin Megami Tensei: Digital Devil Saga,ALL,AetherSX2,Great,1x,Vulkan,Played for about 30 minutes. Runs good from what I can tell. Might be able to bump it up to 2x,,Anonymous,03-21-23
+Shin Megami Tensei: Persona 4,ALL,AetherSX2,Perfect,2x,Vulkan,Had no issues running this game whatsoever,,FruitLoops,05-18-23
+Shining Force EXA,NTSC-U,AetherSX2,Great,2x,Vulkan,Around the 55-60 fps range for the most part with some dips to 49-50 fps. PAL might make the game run full speed fully?,,GongStar,12-30-22
+Shining Force NEO,NTSC-U,AetherSX2,Great,2x,Vulkan,Runs 100%.,,GongStar,12-30-22
+Shonen Jump's One Piece - Grand Adventure,PAL,AetherSX2,Playable,1.5x,OpenGL,PAL. EE Cycle Skip: 3. Hardware Download Mode: Unsynchronized. Runs 100%. OpenGL seems to run slightly better than Vulkan in this title.,,GongStar,03-21-23
+Shonen Jump's One Piece - Grand Battle,PAL,AetherSX2,Playable,1x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 2. Hardware Download Mode: Unsynchronized. Runs 100% most of the time with some dips here and there.",,GongStar,03-21-23
+Showdown: Legends of Wrestling,ALL,AetherSX2,Great,1x,Vulkan,Game also worked on the 2+,,,03-21-23
+Shox: Rally Reinvented ,PAL,AetherSX2,Great,1.5x,Vulkan,Great on 1.25 and 1.5. Playable with some slowdowns on 1.75 and 2. No other settings changed/tried,,Benedict,11-25-22
+Silent Hill 2,PAL,AetherSX2,Great,1x,Vulkan,EE Cycle Skip 1. Do the Sleep Mode trick (https://www.youtube.com/watch?v=c09JUOzWSo4) if cutscenes are playing below 100% game speed.,https://www.youtube.com/watch?v=9aqXKrH0jQA,The Gaming Geek Net,02-06-23
+Silent Hill 3,NTSC-U,AetherSX2,Playable,1.5x,Vulkan,"""NTSC-U Using some patches to disable fog and other effects 
+(https://forums.pcsx2.net/Thread-Post-your-PCSX2-cheats-patches-here?pid=604103#pid604103),
+ it smooths performance out to be enjoyable. Fast/Unsafe settings. I've went back and forth 
+between EE Cycle Rate: -1, EE Cycle Skip: 1 and EE Cycle Rate: 0, EE Cycle Skip 2. Each 
+have their pros and cons when it comes to speed and feel on the game
+
+Good gameplay performance but dialogue gets delayed in long cutscenes.",https://www.youtube.com/watch?v=yE5Ie1siL90,"gtaforever00/
+The Gaming Geek Net",03-21-23
+Silent Hill 4: The Room,PAL,AetherSX2,Great,1x,Vulkan,PAL version is working with zero issues so far (played up to the first enemies). Using default settings with widescreen hacks enabled,,datgoodnooch,12-30-22
+Simpsons Hit and Run,NTSC-U,AetherSX2,Perfect,1.5x,Vulkan,"EE Cycle Rate 0, EE Cycle Skip 1. Seems to play fine. ",,Galvy,12-19-22
+Skygunner,NTSC-U,AetherSX2,Bad,1x,Vulkan,Inconsistent FPS. Lots of random dips despite running at a good speed sometimes.,,Jetup13,12-04-22
+Sly 2 - Band of Thieves,ALL,AetherSX2,Bad,1x,Vulkan,Plays at ~half speed. Couldn't do anything to make it much faster. ,,Mike Hunny,03-21-23
+Sly Cooper and the Thievus Racoonus,PS2,AetherSX2,Playable,1x,Vulkan,"EE Cycle rate (-3), EE Cycle skip (2). Runs at full speed feels a little sluggish and has very small slowdown when looking at large scenes but is more than playable.FMVs have random stutters but are honestly fine. some graphical glitches in some parts but nothing game breaking or experience ruining. (honestly could be in the great category)",https://youtu.be/rV7HsJQ3PHE,Sethstrick9,11-23-22
+Sly Racoon,PAL,AetherSX2,Playable,1x,Vulkan,"Extreme performance mode, EE Cycle Rate (-1), EE Cycle Skip (2), Hardware Download Mode to Disable Readbacks. Still has framerate drops and slows down in large areas.",https://www.youtube.com/watch?v=S6oyuUrlAjA,The Gaming Geek Net,05-12-23
+Sniper Elite,PAL,AetherSX2,Somewhat,1x,Vulkan,"Most of the time this game runs 71% speed, if you face a load of buildings / graphics then it can drop to 46% speed, very noticeable, and controls become unresponsive.",,Paul Pollington,12-30-22
+SNK vs. Capcom - SVC Chaos,PAL,AetherSX2,Perfect,1x,Vulkan,Runs great on Optimal Settings.,https://www.youtube.com/watch?v=mb2V1Jqm6ng,LemonyFlavor,01-26-23
+Sonic Heroes,NTSC-U,AetherSX2,Great,1x,Vulkan,Fast Settings Used,,Jetup13,11-25-22
+Sonic Mega Collection Plus,ALL,AetherSX2,Playable,1x,Vulkan,"Menus run at ~60 - 70% speed, games themselves still run fine, looking at illustrations / comics run at 60 fps, movies run sluggishly",,PANICMOUSE,03-21-23
+Sonic Riders: Zero Gravity,ALL,AetherSX2,Great,1x,Vulkan,"Played with cycle skip at 1, graphics issues on gravity powers. Fix by setting blending accuracy to Full",,Lunasol,03-21-23
+Sonic Unleashed,NTSC-U,AetherSX2,Perfect,1.5x,Vulkan,Fast Settings Used then I changed idle cycle skip to 0. Game runs full speed at 1.5x Res (it's possible to go higher but it's honestly redundant),,FruitLoops,12-19-22
+Soul Caliber 2,PAL,AetherSX2,Great,1.5x,Vulkan,"EE Cycle Rate: -1, EE Cycle Skip: 2. Hardware Download Mode: Unsynchronized. Runs 100%. Cycle rate -1 is not really needed for gameplay but when you bring up the start menu it slows down to 70% and -1 makes that dip more bearable.   ",,GongStar,01-01-22
+Soul Reaver 2,PAL,AetherSX2,Great,1x,OpenGL,Runs Great. Only frame dips on the opening cgi. The rest is full speed.,,Igor Silva,11-23-22
+Spawn: Armageddon,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Skip: 1. Game itself is great, but opening FMV plays at 60% speed.",https://www.youtube.com/watch?v=hOmVhKCccZs,The Gaming Geek Net,01-20-23
+Spectral vs. Generation,PAL,AetherSX2,Perfect,2x,Vulkan,This 2D Fighter runs at 100%.,,GongStar,03-12-23
+Spider-Man,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate 75%, EE Cycle Skip 1. Audio timing glitches in cutscenes.",https://www.youtube.com/watch?v=m7xx0BUQ2Ls,The Gaming Geek Net,07-29-23
+Spider-Man 2,ALL,AetherSX2,Playable,1x,Vulkan,"Mostly 50-60, but when a lot of NPCs are on screen, performance dips a bit. There are a lot of visual glitches during cutscenes of the city in widescreen mode (less so in 4:3). 2x is also playable, but the dips hit much harder.",,VenomAI,12-30-22
+Spider-Man 2,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate 75%, EE Cycle Skip 2. Stays at 95%-100% with occasional dips during combat sequences",https://www.youtube.com/watch?v=CyGJL9WrcQQ,The Gaming Geek Net,03-16-23
+Spiderman Web of Shadows,NTSC-U,AetherSX2,Great,1x,Vulkan,Plays great without tweaks. I have not upscaled it but you probably can. Looks good at 1x.,,Galvy,12-19-22
+Splashdown,PAL,AetherSX2,Bad,1x,Vulkan,"Unplayable, very slow and missing most of the graphics (black) when I tried. single fps. Maybe there is some way to make it run?",,Benedict,12-12-22
+SpongeBob SquarePants: Battle for Bikini Bottom,ALL,AetherSX2,Perfect,1x,Vulkan,"Runs great, little stutter in the transition screens but the actual gameplay is flawless",,Anonymous,03-21-23
+Spyro a Hero's Tail,ALL,AetherSX2,Perfect,1.25x,Vulkan,"EE Cycle Rate = 75%. Runs at full speed with very minor slow downs. It could be perfectly playable up to 2x resolution, but recommend keep in 1.25x. ",,Anonymous,01-31-23
+SSX 3,PAL,AetherSX2,Great,1.5x,Vulkan,PAL. Hardware Download Mode: Unsynchronized. EE Cycle Skip: 2. Runs 100%.,,GongStar,12-30-22
+SSX On Tour,PAL,AetherSX2,Perfect,1x,Vulkan,"No Underclock, runs perfect!",,Retro Game Corps,11-30-22
+SSX Tricky,PAL,AetherSX2,Great,1x,Vulkan,"EE Cycle Skip 1, Hardware Download Mode: Disable Readbacks.",https://www.youtube.com/watch?v=uWC4V1XLXyQ,The Gaming Geek Net,01-27-23
+Star Ocean - Till the End of Time,NTSC-U,AetherSX2,Great,1x,Vulkan,"EE Cycle Rate: 180%, EE Cycle Skip: 3, Multi-Threaded VU1: Enabled, Threaded Presentation: Enabled
+Note: Status screen runs at 50% speed regardless of settings used, all sub-menus from the status screen run at 100% however. This has no effect on gameplay. 60fps 100% without slowdown with these settings!",,BigSludge,12-31-22
+Star Wars - Battlefront II ,PAL,AetherSX2,Great,1.5x,Vulkan,"EE Cycle Rate: -2. Runs mostly 100% with some dips here and there. Only tried the training stage but with allies and enemies all around me, shooting and exploding, the performance kept up.",,GongStar,03-14-23
+Star Wars - Episode III - Revenge of the Sith,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Great performance with OpenGL on Optimal Settings.,,LemonyFlavor,01-28-23
+Star Wars - Starfighter,NTSC-U,AetherSX2,Great,1x,Vulkan,Works well with moderate underclock,https://www.youtube.com/watch?v=6IF3_8HTeKY,Retro Game Corps,11-30-22
+Star Wars - The Force Unleashed,NTSC-U,AetherSX2,Great,1.75x,Vulkan,"EE Cycle Rate 0. EE Cycle Skip 2. Runs at 60FPS and 100% with very minor slow downs. If it slows too much, lower upscale to 1.5-1.25x",Game video posted on Retroid Discord,Galvy,11-30-22
+State of Emergency,NTSC-U,AetherSX2,Great,1x,Vulkan,Full speed on Optimal Settings.,,LemonyFlavor,01-28-23
+Stella Deus,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great! The game only framedips on the cgi and when the narrator is speaking(after battles). The dialogue and gameplay is full speed.,,Igor Silva,11-23-22
+Stuart Little 3 - Big Photo Adventure ,ALL,AetherSX2,Perfect,1x,Vulkan,"Plays great, only EE CYCLE is at 130%",,Anonymous,03-21-23
+Suikoden III,NTSC-U,AetherSX2,Great,1x,Vulkan,"Settings (Underclock: -1) - Runs fine for most of the time, but you will see a framedip (50-60 fps) from time to time outside of battle. Runs fine on battle.",https://www.youtube.com/watch?v=kt1zoEhRsdE,Igor Silva,11-26-22
+Suikoden IV,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,11-09-22
+Suikoden Tactics,PAL,AetherSX2,Perfect,1x,OpenGL,Runs Great,,Igor Silva,11-22-22
+Suikoden V,PAL,AetherSX2,Great,1x,OpenGL,Runs fine on battle and outside of it with few dips,,Igor Silva,11-26-22
+Super Bust-A-Move,NTSC-U,AetherSX2,Perfect,1x,Vulkan,"No underclock, runs perfect!",,Retro Game Corps,11-08-22
+Super Dragon Ball Z,NTSC-U,AetherSX2,Playable,1x,Vulkan,Has quite a few dips but ultimately is pretty playable.,,Jetup13,11-22-22
+Super Robot Taisen OG Gaiden,ALL,AetherSX2,Great,1x,Vulkan,"EE loop skip -1, full speed with a few minor dips. Performance was also confirmed to be nearly identical to the video by another person.",https://www.youtube.com/watch?v=oZfrU6qmxV8,Retroid Youtube + six dorra fiddy cent,11-22-22
+Syphon Filter: The Omega Strain,PAL,AetherSX2,Playable,1x,Vulkan,EE Cycle Skip 1. Occasional dips in some busy areas.,https://www.youtube.com/watch?v=pgGu8HAlMvg,The Gaming Geek Net,07-29-23
+Tales of Destiny: Directors Cut,ALL,AetherSX2,Playable,1x,,"In-Game runs great, Menu is slow ",,six dorra fiddy cent,11-22-22
+Tales of Legendia,ALL,AetherSX2,Great,1x,Vulkan,Runs 100%. There may be some stutters here and there. Allegedly there is an annoying blur reported by a user so take this writeup with a grain of salt.,,"GongStar
+
+J-Alfred-Band",03-21-23
+Tales of the Abyss,PAL,AetherSX2,Perfect,1x,Vulkan,Runs perfect! First 45 minutes of the game apparently tested.,,ArlenB,11-30-22
+Teenage Mutant Ninja Turtles,ALL,AetherSX2,Perfect,1.5x,Vulkan,"EE loop skip -2, full speed",https://www.youtube.com/watch?v=2b1YKV4zK1M,Retroid Youtube,
+Tekken 4 ,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate 130%, EE Cycle Skip 1, Hardware Download Mode Disable Readbacks",https://www.youtube.com/watch?v=EwP91Hzon7s,The Gaming Geek Net,01-06-23
+Tekken 5,NTSC-U,AetherSX2,Great,1x,,Runs Full Speed! PAL version may be recommended in case theres frame dips in some stages as you dont want that in a fighting game.,https://www.youtube.com/watch?v=CzZIDDKb8yk,Team Pandory,11-16-22
+Tekken 5,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Skip 1. 100% game speed except in the final battle. Devil Within is not playable, doesn't hit 100% speed.",https://www.youtube.com/watch?v=XNnwSNqGVhU,The Gaming Geek Net,06-16-23
+Tekken Tag Tournament,NTSC-U,AetherSX2,Bad,1x,,60% speed overall with settings changed,https://www.youtube.com/watch?v=CzZIDDKb8yk,Team Pandory,11-16-22
+Tenchu - Fatal Shadows,PAL,AetherSX2,Great,1x,OpenGL,Runs Great. Only slows down in the cgi and during the preview video before missions. The gameplay runs full speed.,,Igor Silva,11-25-22
+Tenchu 3,PS2,AetherSX2,Great,1x,OpenGL,Runs Great. Only slows down in the cgi and during the preview video before missions. The gameplay runs full speed.,,Igor Silva,11-26-22
+Terminator 3 Redemption,NTSC-U,AetherSX2,Great,1.75x,Vulkan,"EE cyele Rate -3, EE Cycle Skip 3. The game runs at 60fps and 100% speed. Very minor dips at times. You can undercolc less if you lower the upscale. You can play with 1.5x with EEcycles both on 1.",,Galvy,12-14-22
+The Bouncer,PAL,AetherSX2,Great,1x,OpenGL,"Runs 100% most of the time, there can be some dips here and there. I tried bumping up the resolution to 1.5x but there was no way to make it fully smooth. Playing with underlock makes the numbers go 100% but that is an illusion, the game still runs slowed down in certain places at 1.5x.",,GongStar,03-12-23
+The Legend of Spyro - Dawn of the Dragon,NTSC-U,AetherSX2,Perfect,1x,OpenGL,Runs at full speed in 1x resolution with default settings.,,,
+The Legend of Spyro - The Eternal Night,ALL,AetherSX2,Great,1.5x,OpenGL,"It runs at full speed and in general works very well even at 1.5x resolution. Using OpenGL or Vulkan doesn't seem to make any difference. However there is a big graphical problem, a white bandage covers almost 1/3 of the screen (bottom portion) making the game very uncomfortable to play. Maybe this has an easy solution with some settings adjustments, but I have tried changing several things and couldn't get rid of that bandage. If anyone else was able to fix this please share the settings here. 
+
+PS: I have also tried the Wii version and it works great with no problems.",,,
+The Nightmare of Druaga: Fushigi no Dungeon,ALL,AetherSX2,Perfect,1x,Vulkan,"- No settings changed from default.
+- Only first hour played.",,ThespianMask,12-30-22
+The Operative: No One Lives Forever,PAL,AetherSX2,Perfect,2x,Vulkan,Runs 100%.,,GongStar,12-30-22
+The Punisher,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate -1, EE Cycle Skip 2. Generally plays well, but gets choppy in large areas (speed stays at 100% though).",https://www.youtube.com/watch?v=b0AwoWKS7O0,The Gaming Geek Net,07-10-23
+The Sims,ALL,AetherSX2,Perfect,2x,Vulkan,"-50% underclock, Hardware Download Unsynchronized, CRC Fix Aggressive.",,Mike Hunny,03-21-23
+The Sims 2,PAL,AetherSX2,Playable,1x,Vulkan,"Do the Sleep mode trick if intro is below 100% game speed (https://www.youtube.com/watch?v=c09JUOzWSo4). EE Cycle Rate -1, EE Cycle Skip 2. Set Audio sync to Async Mix. Frequent dips but not an issue in this type of game.",https://www.youtube.com/watch?v=N-0Qu3MKuxM,The Gaming Geek Net,02-14-23
+The Suffering,NTSC-U,AetherSX2,Great,2x,Vulkan,"Safe settings as a base, Hardware Download Mode Unsynchronised, Threaded Presentation On, works fine up to 2x with FXAA.",,Mike22,12-30-22
+The Suffering: Ties That Bind,PAL,AetherSX2,Great,1.5x,Vulkan,Runs 100%. Some dips here and there.,,GongStar,03-12-23
+The Warriors,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Plays basicly perfectly. No stutters. Use unsafe for best performace.,,Anonymous,12-30-22
+Time Crisis 2,NTSC-U,AetherSX2,Great,1x,Vulkan,"Runs Great using EE: 0,3 - R1(Shoulder) to toggle View and Hide, 
+and A(O) to Shoot, right analogue to aim.",,Anonymous,12-30-22
+TimeSplitters,PAL,AetherSX2,Perfect,1.5x,Vulkan,Hardware Download Mode: Unsynchronized. Runs 100%.,,GongStar,12-30-22
+Timesplitters 2,PAL,AetherSX2,Perfect,1x,Vulkan,"EE cycle rate - 2, runs full speed.",https://www.youtube.com/watch?v=OFBGg9E7Gzw,Mjolnirstone,11-26-22
+TimeSplitters: Future Perfect,PAL,AetherSX2,Perfect,1.5x,Vulkan,"Hardware Download Mode: Unsynchronized. Runs 100%. Bilinear Filtering PS2 (corrects some rendering artifacts). No need for underclocking. Some effects, like the sun, can be seen through walls. Note: You will need to switch to Software Rendering when using in-game computers and screens or they will not work. ",,BigSludge & GongStar,12-30-22
+Tom & Jerry War of The Whiskers,PAL,AetherSX2,Perfect,1x,Vulkan,PAL Version. Could use a higher res if you don't mind occasional dip. Runs good.,,ConnorD,03-21-23
+Tom Clancy's Splinter Cell,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL. Runs 100%, including night vision, without underclock at 1x. Runs 100%, including night vision, with underclock EE Cycle Rate: -1, EE Cycle Skip: 2, at 1.5x, but feels less smooth due to the cycle skip. I only checked the training mission at the start though, so it may vary, but it seems to me there should be a way to play this game well.",https://www.youtube.com/watch?v=ciui85qPq1o,GongStar,03-21-23
+Tom Clancy's Splinter Cell - Chaos Theory,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL. Runs mostly at 100%. You may require a mild underclock in places. 1.5x requires underclock EE Cycle Rate: -1, EE Cycle Skip: 1, but feels less smooth due to the cycle skip. Some stutters occured if I started shooting at enemies at both 1x or 1.5x.",,GongStar,03-21-23
+Tom Clancy's Splinter Cell - Double Agent,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 1. Runs 100%. This game requires a mild underclock regardless of 1x or 1.5x resolution. Runs 40% without it but shoots up to 100% with it.",,GongStar,03-21-23
+Tomb Raider: Anniversary ,PAL,AetherSX2,Perfect,2x,Vulkan,"Runs 100%. At the start on the snowy peak, it seems to run well.",,GongStar,12-30-22
+Tomb Raider: Legend,PAL,AetherSX2,Perfect,2x,Vulkan,"Runs 100%. At the start on the rocky mountain side, it seems to run well.",,GongStar,12-30-22
+Tomb Raider: The Angel of Darkness,PAL,AetherSX2,Perfect,2x,Vulkan,Runs 100%. I only played around the start in the back alley.,,GongStar,12-30-22
+Tomb Raider: Underworld,PAL,AetherSX2,Playable,1.5x,Vulkan,"1.5x Res (you can even do 2x res, setting the res to anything 2x or below doesnt affect performance really), Fast Settings Used. EE Cycle Rate -2 (might need -3 for the opening). 
+
+Game framerate will vary a lot but will still ultimately be 100% even with all the fire in the opening (it will feel a little sluggish and can go as low as 15fps on the native underclocked hardware), once you get past that point gameplay has been pretty good for the first few hours or so.",,FruitLoops,12-30-22
+Tony Hawk Underground 2,PAL,AetherSX2,Playable,1.5x,Vulkan,"Probably fully playable at 1x, at 1.5x theres a few dips when Tony Hawk falls (according to Mjolnir) but it pretty much runs full speed no problem.",https://www.youtube.com/watch?v=OFBGg9E7Gzw,Mjolnirstone,11-27-22
+Tony Hawk's Pro Skater 3,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL. EE Cycle Skip: 1, Threaded presentation: On, Runs great with these minor tweaks, without them game mostly runs at 80% speed.",,pikqi,05-17-23
+Tony Hawk's Pro Skater 4,NTSC-U,AetherSX2,Playable,1x,Vulkan,Fast Settings Turned On. Has some slowdowns.,,Jetup13,11-26-22
+Tony Hawks American Wasteland,PAL,AetherSX2,Playable,1x,Vulkan,Pal Version.With Fast Setting Playable up to x1.25 res,,Chopsuey,03-21-23
+Tony Hawks Underground,ALL,AetherSX2,Playable,1x,Vulkan,"Absolutly Playable with fast settings. Had some very few Game Crashes in the late game while starting, or after finishing a mission. Better save after every Miission.",,Chopsuey,
+Tony XTreme Racer - Zero,NTSC-U,AetherSX2,Somewhat,1x,,FPS drops a bit when behind other racers and  Vulkan has a bunch of graphical glitches,,Jetup13,11-30-22
+Transformers (Armada tie-in),ALL,AetherSX2,Bad,,,It does not matter what renderer is used or what settings you try. The game maxes out at 13% speed. Completely unplayable.,,Galvy,11-27-22
+Tribes - Assault,NTSC-U,AetherSX2,Bad,1x,Vulkan,Major slowdown with enemies on up close,,Jetup13,
+True Crime: New York City,PAL,AetherSX2,Playable,1x,Vulkan,"Do the Sleep mode trick if intro is below 100% game speed (https://www.youtube.com/watch?v=c09JUOzWSo4). EE Cycle Rate -1, EE Cycle Skip 2, Set Hardware Download Mode to Disable Readbacks.",https://www.youtube.com/watch?v=fTGqn4WDGe4,The Gaming Geek Net,02-15-23
+Ultimate Spiderman,NTSC-U,AetherSX2,Great,1.5x,Vulkan,"EE Cycle Rate -2, EE Cycle Skip 2. Runs very well with very minor dips but not often",,Galvy,12-19-22
+Urbz: Sims in the City,ALL,AetherSX2,Bad,1x,Vulkan,"Struggles to get past menus, in game runs between 40-60% game speed",,Anonymous ,03-21-23
+V-Rally 3,PAL,AetherSX2,Bad,1x,Vulkan,PAL. Runs 60%ish. Adding an aggressive underclock will make the numbers go 100% but the slow down remains.,,GongStar,03-21-23
+Valkyrie Profile 2 - Silmeria,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,Add this cheat code. Open Game > Open Menu > Patch Codes > Add & Locate Patch > Enable Patch. Still has a few graphical errors and occasional slowdown. Needs more testing.,,Jetup13,12-14-22
+Virtua Fighter 4 - Evolution,PAL,AetherSX2,Great,1.5x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 1. Runs 100% most of the time.",,GongStar,03-21-23
+War of the Monsters,PAL,AetherSX2,Perfect,1.5x,Vulkan,PAL. Runs 100%.,,GongStar,03-21-23
+Warriors Orochi,NTSC-U,AetherSX2,Great,1x,Vulkan,"USA. Runs at 100% 60 fps with occasional dips to 80-90% when the screen gets really busy. 
+Use Roetaka's settings. No underclocking. OpenGL seems to run pretty similar to Vulkan.",,,05-17-23
+Way of the Samurai,ALL,AetherSX2,Perfect,1x,Vulkan,"Runs 100%, no dips during a few playthroughs",,Scogin,03-21-23
+Way of the Samurai 2,ALL,AetherSX2,Great,1x,Vulkan,"Runs 100% most of the time, dips to 60-70% temporarily when entering Otemon gate region, otherwise some dips when there is a lot of extra fighters",,Scogin,03-21-23
+We Love Katamari,PAL,AetherSX2,Playable,2x,Vulkan,"PAL. EE Cycle Rate: -1, EE Cycle Skip: 2. Affinity Control Mode: VU > EE > GS. Runs 95-100%. When the ball starts to get larger and in certain scenes the game can dip down to 80-90% and perhaps worse in later levels, but adding Affinity Control Mode gives a little bit of extra performance. The underclock I don't think actually speeds up the game to 100% and all it does is remove the sound stutter, but it feels pretty smooth regardless, at least on the first stages. Also the resolution doesn't seem to matter as much, the dips are the same at 1x or 2x.",,GongStar,03-21-23
+Wild Arm 4,ALL,AetherSX2,Somewhat,1x,Vulkan,Very slow at the opening and in game Menu. Have to switch to software rendering somtimes. Seems playable at the first chapter with fps around 40-50,,,03-21-23
+Wild Arms 3,PAL,AetherSX2,Playable,1x,Vulkan,"Do the Sleep mode trick to reduce dips during cutscenes (https://www.youtube.com/watch?v=c09JUOzWSo4). EE Cycle Rate 2, EE Cycle Skip 2, Set Hardware Download Mode to Disable Readbacks and Audio Sync to Async Mix.",https://www.youtube.com/watch?v=j2r0Z63uK_Q,The Gaming Geek Net,02-20-23
+Wild Arms 4,PAL,AetherSX2,Playable,1x,Vulkan,"Extreme performance mode. EE Cycle Rate 130%, EE Cycle Skip Mild. In Graphics settings, change Bilinear Filtering to Nearest Neighbor and Blending Accuracy to Minimum.
+In Advanced, enable Hardware Fixes then enable Wild Arms fix. Generally stays at 100% and dips in battles, but tolerable as this uses a turn-based system.",https://www.youtube.com/watch?v=pVx9M8S6Yjc,The Gaming Geek Net,04-24-23
+Wild Arms 5,PAL,AetherSX2,Playable,1x,Vulkan,"Extreme performance mode. Turn on Optimal defaults, enable Threaded presentation, set Audio Synchronization to Async Mix. There are slowdowns in battles but aren't noticeable. Cutscenes in sepia (flashbacks) run at around 80% game speed.",https://www.youtube.com/watch?v=P24prFcEdOM,The Gaming Geek Net,05-31-23
+Wild Arms 5,NTSC-U,AetherSX2,Somewhat,1x,Vulkan,Can fps in battle to around 40-50 fps. Device gets warm,,Jetup13,12-15-22
+Wipeout Fusion,PAL,AetherSX2,Bad,1x,Vulkan,Too slow no matter what settings are changed,,,12-13-22
+Woody Woodpecker: Escape from Buzz Buzzard Park,ALL,AetherSX2,Perfect,1x,,Runs perfectly at full speed with default settings.,,Anonymous,03-21-23
+WWE Here Comes the Pain,PS2,AetherSX2,Perfect,1x,,"Runs full speed with 0 Adjustments made to settings, even the Royal Rumble runs well! ",,Ric Flair,12-15-22
+WWE Smackdown vs Raw 2008,ALL,AetherSX2,Somewhat,1x,Vulkan,"It goes well in the menus, but too slow in matches. ",,jeeanvictor,03-21-23
+WWE Smackdown! Here Comes the Pain,PAL,AetherSX2,Great,1x,Vulkan,Plays great using the optimal default settings. May have minor graphical glitches during entrances.,https://www.youtube.com/watch?v=haFe-jL6hgk,The Gaming Geek Net,05-08-23
+WWE Smackdown! Shut Your Mouth,NTSC-U,AetherSX2,Bad,1x,Vulkan,Lots of Slowdown,,Jetup13,11-29-22
+WWE Smackdown! Shut Your Mouth,PAL,AetherSX2,Great,1x,Vulkan,"EE cycle rate 1 (130%), EE Cycle Skip -1. Runs great, with occasional dips during some of the more complicated entrances",https://www.youtube.com/watch?v=NemNym9llDI,The Gaming Geek Net,04-07-23
+WWE: Smackdown vs Raw 2011,ALL,AetherSX2,Perfect,1.5x,Vulkan,"EE cycle rate -1, EE loop skip 2. Runs perfect!",https://www.youtube.com/watch?v=8wON3y5qpfA,Retroid Youtube,12-04-22
+WWE: Smackdown! vs Raw 2006,PAL,AetherSX2,Playable,1x,Vulkan,"Extreme performance mode. EE Cycle Rate (-1) and EE Cycle Skip (1). Minor dips during entrances, plays at 100% speed with 4 wrestlers and below. At 5 wrestlers and up, game speed can go down to 80%.",https://www.youtube.com/watch?v=jTlq0XXFj5k,The Gaming Geek Net,05-25-23
+X-Men: The Official Game,PAL,AetherSX2,Playable,1x,Vulkan,"EE Cycle Rate 75%, EE Cycle Skip 1. Audio timing glitches in cutscenes.",https://www.youtube.com/watch?v=jjo50ZcnvuE,The Gaming Geek Net,07-29-23
+Xenosaga Episode 1,NTSC-U,AetherSX2,Playable,1x,Vulkan,"Turn on fast settings. EE Cycle Rate 0, EE Cycle Skip -2. 
+
+Prologue ran great, battles run great, overworld ran pretty much at full speed. All of this runs well at 1.25x but the cutscenes do have some genuinely annoying slowdown here and there (there are quite a lot of cutscenes) but its not super constant and the problem is more-so the lipsyncing being really off. However the cutscenes are skippable and they are still decently enjoyable but may be distracting to some.",,FruitLoops,12-16-22
+XGIII ( Extreme G 3),NTSC-U,AetherSX2,Perfect,2x,Vulkan,Plays excellent! No Underclocking needed. Very minor slowdowns during corkscrews and climbs. You can try minor underclock or lower the upscale to see if it solves the very minor issue.,,Galvy,12-16-22
+XIII,NTSC-U,AetherSX2,Perfect,1x,Vulkan,Great performance on Optimal Settings.,,LemonyFlavor,01-28-23
+Yakuza,ALL,AetherSX2,Great,2x,Vulkan,"NTSC Version runs at full speed using Mjolnir Stone's settings. However, there are
+minor dips when theres a ghosting effect on screen, (Defeating the final enemy/
+cutscene). Mjolnir's Video: https://www.youtube.com/watch?v=BSinxfHeEWg",,Anonymous,03-21-23
+Yu-Gi-Oh! Duelists of the Roses,NTSC-U,AetherSX2,Perfect,1.5x,Vulkan,Plays perfect!,,Yoona,12-16-22
+Zone of the Enders,NTSC-U,AetherSX2,Playable,1.5x,Vulkan,"Plays great. System Settings> EE Cycle Rate 130% (1), EE Cycle Skip (2), Multi Threaded VU1, Instant VU1, Enable Frame Limit, Normal Speed 110%
+Graphics> Vulkan, Upscale 1.5x, Bilinear Filtering (PS2), Texture Preloading Full (hash Cache), Hardware Download Mode Accurate, Apesct ratio 16:9 and Enbale Widescreen patches, Threaded Presentation, Async Texture loading
+Audio> Sync Mode to Async Mix
+Advanced Auto Flush Software",,Anonymous/Galvy,12-31-22

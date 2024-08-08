@@ -1,0 +1,3 @@
+GOAL: Create an API that pulls ps2 data queried from a database.
+
+Search by name but the api will match similar titles and return similar results. Once we have the specific "Did you mean ex. SlyCooper" it will then return the exact game with its uuid and if its compatible with the rp device
